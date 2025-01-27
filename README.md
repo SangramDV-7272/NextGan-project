@@ -1,7 +1,33 @@
 # NextGan-project
 
-
 ## Problem Statement
+
+**1. Descriptive Analysis**
+
+1. **Analyze the distribution of movie ratings. What percentage of movies have high (5), medium (3-4), and low (1-2) ratings?**
+2. **Identify the top 10 most-rated movies**
+
+## Solution
+
+This project aims to analyze movie ratings data to understand the distribution of ratings and identify the most-rated movies. The solution involves the following steps:
+
+### Data Loading
+
+- Load the movie ratings data from `ratings.dat`.
+- Load the movie information from `movies.dat`.
+
+### Data Processing
+
+- Classify each rating as high (5), medium (3-4), or low (1-2).
+- Calculate the percentage of movies in each rating category.
+- Count the number of ratings for each movie.
+- Identify the top 10 most-rated movies.
+
+### Results
+
+- Rating Distribution: The percentage of movies with high, medium, and low ratings is calculated and displayed.
+- Top 10 Most-Rated Movies: The top 10 movies with the highest number of ratings are identified and displayed.
+
 
 **2. Genre Insights**
 
