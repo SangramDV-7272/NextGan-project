@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-**1. Descriptive Analysis**
+## 1. Descriptive Analysis
 
 1. **Analyze the distribution of movie ratings. What percentage of movies have high (5), medium (3-4), and low (1-2) ratings?**
 2. **Identify the top 10 most-rated movies**
@@ -29,7 +29,7 @@ This project aims to analyze movie ratings data to understand the distribution o
 - Top 10 Most-Rated Movies: The top 10 movies with the highest number of ratings are identified and displayed.
 
 
-**2. Genre Insights**
+## 2. Genre Insights
 
 1. **Which movie genres are the most frequently rated?**
 2. **Compare the average ratings across different genres. Are certain genres consistently rated higher or lower?**
